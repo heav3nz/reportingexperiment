@@ -1,0 +1,15 @@
+{
+  "ReportGuid": "e124555e3a994d7c894fecd805a15efd",
+  "ReportName": "Report",
+  "ReportAlias": "Simple List",
+  "ReportFile": "/reports/SimpleList (2).mrt",
+  "ReportAuthor": "Stimulsoft",
+  "ReportDescription": "This sample demonstrates how to create a simple list report.",
+  "ReportCreated": "/Date(1085803140000-0700)/",
+  "ReportChanged": "/Date(1437961752000-0700)/",
+  "EngineVersion": "EngineV2",
+  "CalculationMode": "Interpretation",
+  "ReportUnit": "Centimeters",
+  "PreviewSettings": 268435455,
+  "RenderedWith": "Unknown"
+}
