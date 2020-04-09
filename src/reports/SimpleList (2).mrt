@@ -5,8 +5,8 @@
   "ReportFile": "SimpleList (2).mrt",
   "ReportAuthor": "Stimulsoft",
   "ReportDescription": "This sample demonstrates how to create a simple list report.",
-  "ReportCreated": "/Date(1085677140000-0700)/",
-  "ReportChanged": "/Date(1437835752000-0700)/",
+  "ReportCreated": "/Date(1085651940000-0700)/",
+  "ReportChanged": "/Date(1437810552000-0700)/",
   "EngineVersion": "EngineV2",
   "CalculationMode": "Interpretation",
   "ReportUnit": "Centimeters",
@@ -366,7 +366,7 @@
                 "Ident": "StiInteraction"
               },
               "Text": {
-                "Value": "Date: {Today.ToString(\"Y\")}"
+                "Value": "Date: {Today.ToString(\"YYYY\")}"
               },
               "HorAlignment": "Right",
               "Font": ";9;;",
